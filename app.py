@@ -43,7 +43,7 @@ def transcribir_archivos(archivos):
                       "smtp.gmail.com", 587, "doniben6@gmail.com", "kmzwa8awaaaAAA")
 
 # Agregar varios archivos a una lista
-archivos_audio = ["martha2606.mp3.ogg", "Mayra2606.mp3.ogg", "Mayra22606.mp3.ogg"]  # Agregar más archivos según sea necesario
+archivos_audio = ["liz2606.m4a"]  # Agregar más archivos según sea necesario
 
 # Llamar a la función para transcribir los archivos
 transcribir_archivos(archivos_audio)
